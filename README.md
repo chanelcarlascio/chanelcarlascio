@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @digitalscotch
 - 👀 I’m interested in  data + web accessibility
 - 🌱 I’m currently learning Python/SQL ...
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me ... chanelcarlascio@gmail.com
 
 <!---
 digitalscotch/digitalscotch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
